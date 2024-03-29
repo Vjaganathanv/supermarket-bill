@@ -1,0 +1,17 @@
+table
+{
+  height: 100%;
+  width: 100%;
+  background-color: white;
+}
+
+th
+{
+  text-align: center;
+background-color: rgb(228, 219, 82);
+}
+
+td
+{
+  text-align: center;
+}
